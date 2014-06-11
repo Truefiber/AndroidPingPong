@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\AndroidProjects\posa\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-9304e2fafd8b250f3348c9ab6d5e1a711b8ed7b0.jar"
+        jar="C:\Users\Gennadiy\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\AndroidProjects\posa\app\build\intermediates\pre-dexed\debug\robotium-solo-5.1-982df83ff9ece1ebb720174a173abbf9a0d22438.jar"
+        jar="C:\AndroidProjects\posa\libs\robotium-solo-5.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5ff4001bfb640635cf35737c112c34bfea30b0c1"/>
+
+</pre-dex-items>
